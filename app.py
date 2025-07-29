@@ -167,5 +167,3 @@ if user_input := st.chat_input("What would you like to ask?"):
 
     # Add assistant's final response to chat history
     st.session_state.messages.append({"role": "assistant", "content": full_response})
-
-#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
