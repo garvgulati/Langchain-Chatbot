@@ -3,6 +3,8 @@ A basic chatbot that leverages the power of a modern language model and the conv
 
 This project is an advanced chatbot built using Python, showcasing a powerful combination of modern AI technologies. It provides a highly interactive and functional user experience.
 
+<img width="1353" height="581" alt="image" src="https://github.com/user-attachments/assets/f4be6d8c-9d0a-45db-8b4f-c1a53f68fcc9" />
+
 ## ✨ Key Features
 
 -   **Interactive Web UI**: A clean and user-friendly web interface powered by Streamlit.
