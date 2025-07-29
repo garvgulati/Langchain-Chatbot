@@ -14,8 +14,6 @@ This project is an advanced chatbot built using Python, showcasing a powerful co
 
 ## 🛠️ Setup and Installation
 
-Follow these steps to get the chatbot running on your local machine.
-
 ### Prerequisites
 
 -   Python 3.8 or newer
@@ -26,31 +24,15 @@ Follow these steps to get the chatbot running on your local machine.
 1.  **Download the Project Files:**
     Save the `app.py` and `requirements.txt` files into a new project folder.
 
-2.  **Create a Virtual Environment:**
-    Open your terminal, navigate to the project folder, and run the following commands:
-    ```bash
-    # Create a virtual environment named 'venv'
-    python -m venv venv
-
-    # Activate the virtual environment
-    # On Windows:
-    .\venv\Scripts\activate
-    # On macOS/Linux:
-    source venv/bin/activate
-    ```
-
-3.  **Install Dependencies:**
+2.  **Install Dependencies:**
     With your virtual environment active, install the required packages:
     ```bash
     pip install -r requirements.txt
     ```
 
-4.  **Get Your Groq API Key:**
-    -   Go to the [Groq Console](https://console.groq.com/keys).
-    -   Sign up for a free account.
-    -   Create a new API key and copy it.
+3.  **Get Your Groq API Key:**
 
-5.  **Run the Application:**
+4.  **Run the Application:**
     Execute the following command in your terminal:
     ```bash
     streamlit run app.py
